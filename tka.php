@@ -72,7 +72,7 @@ if(isset($_POST['Submit'])) {
       <h1>Form Data Murid </h1>
       <nav>
         <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="dashboard2.php">Home</a></li>
+          <li class="breadcrumb-item"><a href="index.html">Home</a></li>
           <li class="breadcrumb-item"><a href="dashboard2.php">Dashboard</a></li>
           <li class="breadcrumb-item"><a href="tabletka.php">Database</a></li>
           <li class="breadcrumb-item active">Form</li>

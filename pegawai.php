@@ -65,7 +65,7 @@ if(isset($_POST['Submit'])) {
       <h1>Form Data Pegawai</h1>
       <nav>
         <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="dashboard2.php"><i class="bi bi-house-door"></i></a></li>
+          <li class="breadcrumb-item"><a href="index.html"><i class="bi bi-house-door"></i></a></li>
           <li class="breadcrumb-item"><a href="dashboard2.php">Dashboard</a></li>
           <li class="breadcrumb-item"><a href="tablepegawai.php">Database</a></li>
           <li class="breadcrumb-item active">Form</li>
