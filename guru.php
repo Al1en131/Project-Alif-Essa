@@ -61,27 +61,16 @@ if(isset($_POST['Submit'])) {
       <div class="row">
         <div class="col-md-9 offset-md-2">
           <div class="pagetitle">
-      <h1>Form Data Guru</h1>
-      <nav>
-        <ol class="breadcrumb">
-          <div class="pagetitle">
-      <h1>Form Data Kelulusan</h1>
-
+            <h1>Form Data Guru</h1>
             <nav>
-                <ol class="breadcrumb">
-                  <li class="breadcrumb-item"><a href="index.html"><i class="bi bi-house-door"></i></a></li>
-          <li class="breadcrumb-item"><a href="dashboard2.php">Dashboard</a></li>
-          <li class="breadcrumb-item"><a href="tableguru.php">Database</a></li>
-          <li class="breadcrumb-item active">Form</li>
-
-                </ol>
-              </nav>
-            </div>
-          
-
-        </ol>
-      </nav>
-    </div>
+              <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="index.html"><i class="bi bi-house-door"></i></a></li>
+                <li class="breadcrumb-item"><a href="dashboard2.php">Dashboard</a></li>
+                <li class="breadcrumb-item"><a href="tableguru.php">Database</a></li>
+                <li class="breadcrumb-item active">Form</li>
+              </ol>
+            </nav>
+          </div>
           <div class="card">
             <div class="card-body">
               <form action="guru.php" method="POST">

@@ -95,7 +95,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM dataguru WHERE id=$id");
         <ol class="breadcrumb">
           <li class="breadcrumb-item"><a href="index.html"><i class="bi bi-house-door"></i></a></li>
           <li class="breadcrumb-item"><a href="dashboard2.php">Dashboard</a></li>
-          <li class="breadcrumb-item"><a href="tablekguru.php">Database</a></li>
+          <li class="breadcrumb-item"><a href="tableguru.php">Database</a></li>
           <li class="breadcrumb-item active">Edit Form</li>
 
         </ol>
